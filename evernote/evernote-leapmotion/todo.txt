@@ -1,0 +1,6 @@
+explore the sdk
+-> figure out how to replicate the note_store locally for leap motion integration
+	+currently working on downloading rescources and saving files corretnly (hex doens't seem to be in order?)
+
+ULTIMATE GOAL: Leap Motion/Evernote app
+
